@@ -187,6 +187,6 @@ body, html {
       display: none;
     }
     .wrap-login{
-        @apply px-0 py-5
+        @apply px-0 py-10;
     }
   }
